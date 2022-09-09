@@ -1,0 +1,16 @@
+{
+    "name": "VisualGeometry.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:587fbab85c81b4440a7c95a913231fbf"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
