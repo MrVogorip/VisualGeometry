@@ -1,0 +1,17 @@
+{
+  "name": "com.mrvogorip.visualgeometry",
+  "version": "1.0.0",
+  "displayName": "Visual Geometry",
+  "description": "A package for creating your own visual shapes for the UI Toolkit.",
+  "unity": "2021.3",
+  "keywords": [
+    "UI Toolkit",
+    "VisualElement",
+    "Shape"
+  ],
+  "author": {
+    "name": "Pavlo Pyrohov",
+    "email": "mrvogorip@gmail.com"
+  },
+  "type": "tool"
+}
